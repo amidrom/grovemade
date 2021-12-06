@@ -69,7 +69,7 @@ hr{
     padding-top: 65px;
 }
 .header__bottom{
-    background-image: url('/images/bg-header.jpg');
+    background-image: url('../images/bg-header.jpg');
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;
@@ -202,7 +202,7 @@ hr{
 }
 /*-----office -----*/
 .office{
-    background-image: url('/images/bg-office.jpg');
+    background-image: url('../images/bg-office.jpg');
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;
